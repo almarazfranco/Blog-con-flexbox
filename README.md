@@ -1,1 +1,1 @@
-Diseño de blog que realicé al aprender flexbox para practicar.
+Diseño de blog que realicé para practicar al aprender flexbox.
